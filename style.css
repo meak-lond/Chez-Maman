@@ -95,7 +95,7 @@ header > a {
 /* Espacement des spécialités */
 #specialites {
     padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 10px;
 }
 #specialites p {
     margin-bottom: 30px;
