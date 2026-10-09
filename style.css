@@ -110,3 +110,19 @@ img {
 body {
     overflow-wrap: break-word;
 }
+.btn,
+a.btn,
+.hero a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn {
+    background-color: #b83e2e;
+    border-radius: 8px;
+    padding: 14px 24px;
+    display: inline-block;
+}
+.btn:visited,
+.hero a:visited {
+    color: #ffffff;
+}
