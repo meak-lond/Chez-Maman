@@ -84,3 +84,29 @@ footer {
         font-size: 1.7rem;
     }
 }
+/* Correction des liens */
+header > a,
+nav a,
+.btn {
+    text-decoration: none;
+}
+header > a {
+    color: #8b2f20;
+    font-weight: bold;
+}
+/* Espacement des spécialités */
+#specialites {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#specialites p {
+    margin-bottom: 30px;
+}
+/* Éviter les débordements sur téléphone */
+img {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    overflow-wrap: break-word;
+}
